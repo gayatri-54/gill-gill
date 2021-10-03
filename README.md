@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @gill-gill
+- 👋 Hello, I’m @gayatri
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate with teams
